@@ -39,6 +39,6 @@ Formula:
     return celsius;
 }
 
-    //return celsius;
+    return celsius;
 
 }
